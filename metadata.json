@@ -1,0 +1,6 @@
+{
+  "name": "Agent-Based Consular Simulation",
+  "description": "An interactive, data-driven discrete-event simulation dashboard modeling document verification, cashier counters, and biometric processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
